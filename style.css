@@ -503,6 +503,9 @@ footer .inbox .copyright{
   .testimonials{
     margin-bottom: 140px;
   }
+  .testimonials .testimonial{
+    max-width: calc(100vw - 30px);
+  }
   .testimonials h2{
     font-size: 34px;
   }
